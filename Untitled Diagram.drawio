@@ -1,1 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T01:09:18.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.68" version="13.7.8" etag="nKU1_ZcwdXFd48pQ8ZCb" type="github"><diagram id="7Vw7H-i2mA9C7uz1bi9S">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-08T01:23:10.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.68" etag="bq5OZyiPLZsU5eUFl9vz" version="13.7.8" type="github">
+  <diagram id="7Vw7H-i2mA9C7uz1bi9S" name="Page-1">
+    <mxGraphModel dx="1221" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;总菜单&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="90" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-2" value="" style="endArrow=classic;html=1;exitX=1.058;exitY=0.096;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.025;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aIteqAT_gcoXnPoXTb-d-1" target="aIteqAT_gcoXnPoXTb-d-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320.0000000000001" y="-9.25" as="sourcePoint" />
+            <mxPoint x="520.36" y="95" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;账务录入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-70" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-4" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="aIteqAT_gcoXnPoXTb-d-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="160" as="sourcePoint" />
+            <mxPoint x="630" y="-32" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;手动录入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-100" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;文件读入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="10" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-9" value="" style="endArrow=classic;html=1;entryX=0.02;entryY=0.184;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="aIteqAT_gcoXnPoXTb-d-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="28" as="sourcePoint" />
+            <mxPoint x="630" y="35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-10" value="" style="endArrow=classic;html=1;entryX=0.023;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="aIteqAT_gcoXnPoXTb-d-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="243" y="463" as="sourcePoint" />
+            <mxPoint x="320" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;数据展示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="430" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-12" value="财务报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="170" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-13" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aIteqAT_gcoXnPoXTb-d-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339.64" y="290" as="sourcePoint" />
+            <mxPoint x="629.64" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-14" value="账务排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="69.64" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-15" value="" style="endArrow=classic;html=1;exitX=1.013;exitY=0.344;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.011;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aIteqAT_gcoXnPoXTb-d-1" target="aIteqAT_gcoXnPoXTb-d-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="aIteqAT_gcoXnPoXTb-d-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="241" y="358" as="sourcePoint" />
+            <mxPoint x="470" y="347" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aIteqAT_gcoXnPoXTb-d-17" value="账务修改与删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="320" width="110" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
